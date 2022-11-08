@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**perez987/perez987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [perez987](https://github.com/perez987)
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/Repositories-perez987-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/perez987?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+## Stats
+
+![perez987's github stats](https://github-readme-stats.vercel.app/api?username=perez987&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perez987&show_icons=true&theme=tokyonight)
+  
+</div>
