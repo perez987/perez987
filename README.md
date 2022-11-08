@@ -6,6 +6,6 @@
 
 <hr>
 
-![perez987's github stats](https://github-readme-stats.vercel.app/api?username=perez987&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perez987&show_icons=true&theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=perez987&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perez987&show_icons=true&theme=tokyonight)
   
 </div>
