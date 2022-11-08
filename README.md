@@ -6,6 +6,6 @@
 
 <hr>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=perez987&show_icons=true&theme=radical&hide_title=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=perez987&show_icons=true&theme=tokyonight&hide_title=true)
   
 </div>
