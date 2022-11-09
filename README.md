@@ -4,8 +4,6 @@
 
 [![](https://img.shields.io/badge/Repositories-perez987-informational?style=flat&logo=apple&logoColor=white&color=0677b7)](https://github.com/perez987?tab=repositories)
 
-<hr>
-  
 [![Hits](https://hits.sh/github.com/perez987/hits.svg?label=Visitors&extraCount=3254&labelColor=Grey&color=Blue)](https://hits.sh/github.com/perez987/hits/)
 
 <hr>
