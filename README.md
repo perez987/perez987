@@ -2,7 +2,7 @@
 
 # [perez987](https://github.com/perez987)
 
-[![](https://img.shields.io/badge/Repositories-perez987-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/perez987?tab=repositories)
+[![](https://img.shields.io/badge/Repositories-perez987-informational?style=flat&logo=apple&logoColor=white&color=0677b7)](https://github.com/perez987?tab=repositories)
 
 <hr>
 
