@@ -10,7 +10,4 @@
   
 <hr>
   
-![Visitors](https://profile-counter.glitch.me/{perez987}/count.svg)
-
-  
 </div>
