@@ -10,4 +10,6 @@
   
 <hr>
   
+[![Hits](https://hits.sh/github.com/perez987/hits.svg?extraCount=3254?label=Visitors)](https://hits.sh/github.com/perez987/hits/)
+  
 </div>
