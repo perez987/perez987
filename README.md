@@ -10,6 +10,5 @@
   
 <hr>
 
-![Visitors](https://gpvc.arturio.dev/[perez987])
   
 </div>
