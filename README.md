@@ -10,6 +10,5 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=perez987&show_icons=true&theme=algolia&hide_title=true&disable_animations=true)
   
-![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=perez987)
   
 </div>
