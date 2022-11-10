@@ -10,6 +10,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=perez987&show_icons=true&theme=algolia&hide_title=true&disable_animations=true)
   
-  https://visitcount.itsvg.in/api?id=VishwaGauravIn
+|[Visitors](https://visitcount.itsvg.in/api?id=perez987)
   
 </div>
