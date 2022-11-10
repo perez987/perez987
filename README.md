@@ -9,6 +9,8 @@
 <hr>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=perez987&show_icons=true&theme=algolia&hide_title=true&disable_animations=true)
-  
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Fabioo29/count.svg" alt="Visitor Count" align="center" />
+</p>
   
 </div>
