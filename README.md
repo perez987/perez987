@@ -1,12 +1,5 @@
 <div align="center">
 
-  $${\color{orange}perez987}$$
-  
-````diff
-  + perez987
-
-  
-
 # <span style="color:orange">perez987</span>
   
 <!-- [perez987](https://github.com/perez987) -->
