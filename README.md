@@ -6,7 +6,7 @@
   
 [![Hits](https://hits.sh/github.com/perez987/hits.svg?label=Visitors&extraCount=2254&labelColor=Grey&color=Blue)](https://hits.sh/github.com/perez987/hits/)
 
-<hr>
+<!-- <hr> -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=perez987&show_icons=true&theme=algolia&hide_title=true&disable_animations=true)
 
