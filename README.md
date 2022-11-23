@@ -1,8 +1,6 @@
 <div align="center">
 
-```html
-  <h2 style="color:orange";>perez987</h2>
-```
+# perez987
   
 <!-- [perez987](https://github.com/perez987) -->
 
