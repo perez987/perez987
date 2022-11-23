@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color:orange">perez987</span>
+# perez987
   
 <!-- [perez987](https://github.com/perez987) -->
 
